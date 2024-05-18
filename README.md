@@ -11,8 +11,8 @@
 
 🔨Tools
 
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?flat-square&logo=webstorm&logoColor=white&color=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?flat-square&logo=intellij-idea&logoColor=white)
 <!--
 **kimjunyoung90/kimjunyoung90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
