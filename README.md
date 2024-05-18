@@ -1,4 +1,4 @@
-### Hi there 👋
+👋 Hi there, I'm **Web Application Developer**.
 
 💻⌨️ Skills
 
