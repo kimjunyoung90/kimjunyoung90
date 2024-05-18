@@ -1,5 +1,4 @@
-👋 Hi there, I'm a **Web Application Developer**.
-
+👋 Hi there, I'm a **Web Application Developer**.\n
 🔭 I’m currently working as a full-stack developer.
 
 💻 Skills
