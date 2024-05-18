@@ -1,6 +1,6 @@
 👋 Hi there, I'm a **Web Application Developer**.
 
-💻⌨️ Skills
+💻 Skills
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=React&logoColor=white)
