@@ -12,6 +12,7 @@
 
 🔨Tools
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?flat-square&logo=webstorm&logoColor=white&color=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?flat-square&logo=intellij-idea&logoColor=white)
 <!--
